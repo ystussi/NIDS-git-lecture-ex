@@ -2,3 +2,4 @@ The 3-var Switcher
 Intro: gap in switcher topic literature
 Methods: highly optimized algorithm
 Results: switched numbers as expected
+Discussion
