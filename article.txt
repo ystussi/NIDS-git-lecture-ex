@@ -1,2 +1,3 @@
 The 3-var Switcher
 Intro: gap in switcher code literature
+Methods: to be masterly updated
